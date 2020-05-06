@@ -311,6 +311,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="122" key="FileChooserDialogImpl" timestamp="1588796469064">
+      <screen x="0" y="0" width="1364" height="728" />
+    </state>
+    <state x="462" y="122" key="FileChooserDialogImpl/0.0.1364.728@0.0.1364.728" timestamp="1588796469064" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
