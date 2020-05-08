@@ -7,7 +7,9 @@ import model.exceptions.DAOException;
 import javax.servlet.*;
 import javax.servlet.http.*;
 import java.io.IOException;
-
+/**
+ * @author Artsiom Maroz
+ */
 public class CancelRequestCommand implements Command {
     final String urlPattern = "cancelRequest";
     final int accessLevel = 1;

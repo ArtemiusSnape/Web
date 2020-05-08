@@ -10,7 +10,9 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Locale;
 import java.util.ResourceBundle;
-
+/**
+ * @author Artsiom Maroz
+ */
 public class RequestTableTag extends SimpleTagSupport {
 
     @Override

@@ -11,8 +11,7 @@ import javax.servlet.http.*;
 import java.io.IOException;
 
 /**
- * Command interface
- * @author Rai Alexander
+ * @author Artsiom Maroz
  */
 public interface Command {
     String getPattern();

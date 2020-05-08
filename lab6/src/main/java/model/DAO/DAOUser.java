@@ -14,9 +14,7 @@ import javax.persistence.criteria.Root;
 import java.util.List;
 
 /**
- * DAOUser class.
- * @autor Alexander Rai
- * @version 1.0
+ * @author Artsiom Maroz
  */
 public class DAOUser extends DAO{
 

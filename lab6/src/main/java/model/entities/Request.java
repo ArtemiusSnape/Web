@@ -3,9 +3,7 @@ package model.entities;
 import javax.persistence.*;
 
 /**
- * Class that represents request.
- * @autor Alexander Rai
- * @version 1.0
+ * @author Artsiom Maroz
  */
 @Entity(name = "Request")
 @Table(name = Request.tableName)

@@ -13,7 +13,9 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-
+/**
+ * @author Artsiom Maroz
+ */
 @WebServlet(name = "MainServlet", urlPatterns = {"/"})
 public class MainServlet extends HttpServlet {
 

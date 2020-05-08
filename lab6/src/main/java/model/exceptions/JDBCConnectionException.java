@@ -1,11 +1,8 @@
 package model.exceptions;
 
 /**
- * Class that represents jdbc connection exception
- * @autor Alexander Rai
- * @version 1.0
+ * @author Artsiom Maroz
  */
-
 
 public class JDBCConnectionException extends Exception {
     /**

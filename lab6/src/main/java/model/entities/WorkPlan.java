@@ -3,9 +3,7 @@ package model.entities;
 import javax.persistence.*;
 
 /**
- * Class that represents work plan.
- * @autor Alexander Rai
- * @version 1.0
+ * @author Artsiom Maroz
  */
 @Entity(name = "WorkPlan")
 @Table(name = WorkPlan.tableName)

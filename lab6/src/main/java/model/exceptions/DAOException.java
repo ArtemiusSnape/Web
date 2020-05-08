@@ -1,9 +1,7 @@
 package model.exceptions;
 
 /**
- * Class that represents DAO exception.
- * @autor Alexander Rai
- * @version 1.0
+ * @author Artsiom Maroz
  */
 
 
